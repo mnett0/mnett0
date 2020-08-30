@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Visits Badge](https://badges.pufler.dev/visits/mnett0/mnett0)](https://badges.pufler.dev/visits/mnett0/mnett0)
 <!--
 **mnett0/mnett0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
